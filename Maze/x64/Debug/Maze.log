@@ -1,0 +1,4 @@
+﻿  Maze Source.cpp
+C:\Users\Pooria\Desktop\Maze\Maze\Maze\Maze Source.cpp(92,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Pooria\Desktop\Maze\Maze\Maze\Maze Source.cpp(93,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Maze.vcxproj -> C:\Users\Pooria\Desktop\Maze\Maze\x64\Debug\Maze.exe
